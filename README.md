@@ -3,7 +3,7 @@
 Xatbot intel·ligent que s'integra a un portfoli en WordPress i respon segons la informació de la web personal.
 
 Permet personalitzar el comportament del xatbot, fer web scraping i millorar el model mitjançant API.
-🎯 Objectius
+## 🎯 Objectius
 Desenvolupar un xatbot que respongui segons el contingut d'una web.
 Integrar-lo a WordPress com un widget.
 Fer servir Google Gemini API per generar respostes.
