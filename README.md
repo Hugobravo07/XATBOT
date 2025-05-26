@@ -1,5 +1,5 @@
-🤖 Xatbot IPOP
-📖 Descripció
+# 🤖 Xatbot IPOP
+## 📖 Descripció
 Xatbot intel·ligent que s'integra a un portfoli en WordPress i respon segons la informació de la web personal.
 
 Permet personalitzar el comportament del xatbot, fer web scraping i millorar el model mitjançant API.
