@@ -33,19 +33,19 @@ Abans d’iniciar el projecte, assegura’t de tenir instal·lats:
 ┣ 📜 CHANGELOG.md # Registre de versions i canvis 
 ┗ 📜 CONTRIBUTING.md # Guia per col·laboradors
 
-🔧 Instal·lació
+## 🔧 Instal·lació
 
 1️⃣ Instal·lació de biblioteques i mòduls (Backend)
 2️⃣ Configuració de l’API Key
 3️⃣ Executar el xatbot
 
 
-🔁 Fluxe de dades
+## 🔁 Fluxe de dades
 
 🔽 El backend processa la consulta de l’usuari.
 🔽 Recull informació del WordPress (opcional, via web scraping).
 🔽 Envia la resposta generada pel model cap al frontend.
 🔽 El frontend mostra la resposta a l’usuari en un widget.
 
-👨‍💻 Contribució
+## 👨‍💻 Contribució
 Si vols contribuir, segueix les normes indicades a CONTRIBUTING.md.
