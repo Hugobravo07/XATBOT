@@ -35,9 +35,9 @@ Abans d’iniciar el projecte, assegura’t de tenir instal·lats:
 
 ## 🔧 Instal·lació
 
-1️⃣ Instal·lació de biblioteques i mòduls (Backend)
-2️⃣ Configuració de l’API Key
-3️⃣ Executar el xatbot
+1️⃣. Instal·lació de biblioteques i mòduls (Backend)
+2️⃣. Configuració de l’API Key
+3️⃣. Executar el xatbot
 
 
 ## 🔁 Fluxe de dades
