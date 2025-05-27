@@ -6,17 +6,17 @@ Permet personalitzar el comportament del xatbot, fer web scraping i millorar el 
 ## 🎯 Objectius
 1. Desenvolupar un xatbot que respongui segons el contingut d'una web.
 2. Integrar-lo a WordPress com un widget.
-Fer servir Google Gemini API per generar respostes.
-Aprendre a gestionar API Keys i seguretat bàsica.
-Utilitzar web scraping per extreure informació d'una pàgina.
-📦 Requisits
+3. Fer servir Google Gemini API per generar respostes.
+4. Aprendre a gestionar API Keys i seguretat bàsica.
+5. Utilitzar web scraping per extreure informació d'una pàgina.
+## 📦 Requisits
 Abans d’iniciar el projecte, assegura’t de tenir instal·lats:
 
-Python 3.x (python --version)
-Google Gemini API Key (Obtenir-la a Google AI Studio)
-Google Colab o entorn local amb biblioteques necessàries
-Un entorn de proves per al frontend (Google Sites, WordPress, etc.)
-📂 Estructura del projecte
+1. Python 3.x (python --version)
+2. Google Gemini API Key (Obtenir-la a Google AI Studio)
+3. Google Colab o entorn local amb biblioteques necessàries
+4. Un entorn de proves per al frontend (Google Sites, WordPress, etc.)
+## 📂 Estructura del projecte
 📦 xatbot-ipop 
 ┣ 📂 src # Codi font del backend ┃ 
 ┣ 📜 main.ipynb # Backend principal del xatbot ┃ 
