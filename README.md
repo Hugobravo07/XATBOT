@@ -18,20 +18,20 @@ Abans d’iniciar el projecte, assegura’t de tenir instal·lats:
 4. Un entorn de proves per al frontend (Google Sites, WordPress, etc.)
 ## 📂 Estructura del projecte
 📦 xatbot-ipop 
-┣ 📂 src # Codi font del backend ┃ 
-┣ 📜 main.ipynb # Backend principal del xatbot ┃ 
-┣ 📜 chatbot.ipynb # Lògica del chatbot (instruccions, API) ┃ 
-┣ 📜 scraper.ipynb # Web scraping per extreure informació ┃ 
-┗ 📜 config.ipynb # Configuració de la API i altres paràmetres 
+1. ┣ 📂 src # Codi font del backend ┃ 
+2. ┣ 📜 main.ipynb # Backend principal del xatbot ┃ 
+3. ┣ 📜 chatbot.ipynb # Lògica del chatbot (instruccions, API) ┃ 
+4. ┣ 📜 scraper.ipynb # Web scraping per extreure informació ┃ 
+5. ┗ 📜 config.ipynb # Configuració de la API i altres paràmetres 
 
-┣ 📂 frontend # Widget frontend (HTML, CSS, JS) ┃ 
-┗ 📜 index.html # Integració al WordPress 
+6. ┣ 📂 frontend # Widget frontend (HTML, CSS, JS) ┃ 
+7. ┗ 📜 index.html # Integració al WordPress 
 
-┣ 📂 docs # Documentació del projecte 
-┣ 📜 requirements.txt # Biblioteques necessàries 
-┣ 📜 README.md # Aquest fitxer 
-┣ 📜 CHANGELOG.md # Registre de versions i canvis 
-┗ 📜 CONTRIBUTING.md # Guia per col·laboradors
+8. ┣ 📂 docs # Documentació del projecte 
+9. ┣ 📜 requirements.txt # Biblioteques necessàries 
+10. ┣ 📜 README.md # Aquest fitxer 
+11. ┣ 📜 CHANGELOG.md # Registre de versions i canvis 
+12. ┗ 📜 CONTRIBUTING.md # Guia per col·laboradors
 
 ## 🔧 Instal·lació
 
